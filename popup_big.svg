@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.759" height="29.894" viewBox="0 0 22.759 29.894">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="22.759" height="29.893" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="22.458" height="29.497" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_4" data-name="Component 4" clip-path="url(#clip-path)">
+    <g id="popup" transform="translate(0.094 0.307)" clip-path="url(#clip-path-2)">
+      <g id="Component" transform="translate(0 0.001)">
+        <path id="Union_1" data-name="Union 1" d="M3.265,18.856a11.228,11.228,0,1,1,16.526.121L11.467,29.583Z" transform="translate(-0.357 -0.088)" fill="#d0103a"/>
+        <g id="i" transform="translate(8.672 3.733)">
+          <g id="Group_95" data-name="Group 95" transform="translate(0 0)">
+            <path id="Path_36172" data-name="Path 36172" d="M4.715,4.555A2.577,2.577,0,1,1,5.47,6.39a2.572,2.572,0,0,1-.755-1.836Zm1.257,9.711q0-1.212-.03-2.277T5.813,9.849q.278.041.657.07c.252.019.529.029.836.029a8.911,8.911,0,0,0,1.492-.1q-.1,1.076-.129,2.139t-.03,2.277v.8q0,1.212.03,2.289T8.8,19.418a4.58,4.58,0,0,0-.647-.039H6.47a4.925,4.925,0,0,0-.657.039q.1-.994.129-2.067t.03-2.289Z" transform="translate(-4.715 -1.964)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
